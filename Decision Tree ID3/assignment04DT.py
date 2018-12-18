@@ -58,8 +58,6 @@ class ID3Tree:
                 count += 1
         return 1.0 * count / len(pred)
 
-    # https://docs.python.org/3/library/functions.html
-    # @staticmethod decorator, call the @staticmethod from the instance of the  ID3Tree Class.
     @staticmethod
     def shannon_entropy(current_data):
         '''
