@@ -10,3 +10,4 @@
    
 3. Stock Market Prediction using different machine learning algorithm. Dataset: UCI dow-jones index dataset.
    Including data preparation and using apply both from classfication and regression.
+# machine-learning-implementation
